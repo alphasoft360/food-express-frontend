@@ -148,7 +148,7 @@ export const startBackgroundLocation = async (config: BackgroundConfig) => {
     deferredUpdatesInterval: 10000,
     showsBackgroundLocationIndicator: true,
     foregroundService: {
-      notificationTitle: "Enatega delivery tracking",
+      notificationTitle: "Food Express delivery tracking",
       notificationBody: "Sharing your location for active deliveries",
       killServiceOnDestroy: false,
     },

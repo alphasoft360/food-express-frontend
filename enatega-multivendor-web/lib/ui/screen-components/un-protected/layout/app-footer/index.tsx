@@ -101,7 +101,7 @@ const AppFooter = () => {
               ))}
             </nav>
             <p className="text-xs text-white/45">
-              © {new Date().getFullYear()} Enatega. {t("Landing.footer.rights")}
+              © {new Date().getFullYear()} Food Express. {t("Landing.footer.rights")}
             </p>
           </div>
         </div>

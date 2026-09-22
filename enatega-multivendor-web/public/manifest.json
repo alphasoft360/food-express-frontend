@@ -1,7 +1,7 @@
 {
-  "name": "Enatega MultiVendor",
+  "name": "Food Express MultiVendor",
   "id":"/",
-  "short_name": "Enatega",
+  "short_name": "Food Express",
   "description": "A Progressive Web App built with Next.js",
   "start_url": "/",
   "background_color": "#000",

@@ -48,7 +48,7 @@ const RETRY_DELAYS_MS = [750, 2000, 5000]
 const defaultConfiguration = {
   appGroupId: 'group.com.enatega.multivendor.shared',
   appScheme: 'enategamultivendor',
-  brandName: 'Enatega',
+  brandName: 'Food Express',
   primaryColor: '#90E36D',
   accentColor: '#FFA921',
   logoResourceName: 'enatega_logo',

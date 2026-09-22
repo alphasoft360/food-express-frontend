@@ -26,11 +26,11 @@ module.exports = () => {
   ]
 
   return {
-    name: 'Enatega Multi',
+    name: 'Food Express Multi',
     scheme: 'enategamultivendor',
     version: '1.1.41',
     description:
-      "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
+      "Food Express is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
     slug: 'enategamultivendor',
     owner: 'ninjas_code',
     experiments: {
@@ -93,7 +93,7 @@ module.exports = () => {
       color: '#90E36D',
       icon: './assets/not-icon.png',
       androidMode: 'default',
-      androidCollapsedTitle: 'Enatega Multivendor'
+      androidCollapsedTitle: 'Food Express Multivendor'
     },
     android: {
       versionCode: 144,
@@ -175,7 +175,7 @@ module.exports = () => {
         'expo-location',
         {
           locationAlwaysAndWhenInUsePermission:
-            'Allow $Enatega Multivendor to use your location.'
+            'Allow $Food Express Multivendor to use your location.'
         }
       ],
       '@react-native-firebase/app',
@@ -220,7 +220,7 @@ module.exports = () => {
       liveActivity: {
         appGroupId: 'group.com.enatega.multivendor.shared',
         appScheme: 'enategamultivendor',
-        brandName: 'Enatega',
+        brandName: 'Food Express',
         primaryColor: '#90E36D',
         accentColor: '#FFA921',
         logoResourceName: 'enatega_logo',

@@ -956,10 +956,10 @@
       "locationError": "અમે તમારા સ્થાનને ઍક્સેસ કરી શક્યા નહીં. તેના બદલે શહેર શોધો."
     },
     "journey": {
-      "eyebrow": "| Enatega કેવી રીતે ચાલે છે",
+      "eyebrow": "| Food Express કેવી રીતે ચાલે છે",
       "title": "| તમારા શહેરથી,",
       "accent": "| તમારા ઘર સુધી.",
-      "bagAlt": "| Enatega ડિલિવરી બેગ",
+      "bagAlt": "| Food Express ડિલિવરી બેગ",
       "stages": {
         "choose": {
           "title": "| પસંદ કરો",
@@ -976,16 +976,16 @@
       }
     },
     "cta": {
-      "label": "| Enatega સાથે કામ કરો",
+      "label": "| Food Express સાથે કામ કરો",
       "business": {
         "eyebrow": "| વ્યવસાયો માટે",
-        "title": "Enatega સાથે વૃદ્ધિ કરો.",
+        "title": "Food Express સાથે વૃદ્ધિ કરો.",
         "body": "| તમારા સ્ટોરને વધુ ગ્રાહકોની નજીક લાવો.",
         "action": "| ભાગીદાર બનો"
       },
       "rider": {
         "eyebrow": "| રાઇડર્સ માટે",
-        "title": "Enatega સાથે સવારી કરો.",
+        "title": "Food Express સાથે સવારી કરો.",
         "body": "| તમારા શેડ્યૂલ પર ડિલિવર કરો.",
         "action": "| રાઇડર બનો"
       }

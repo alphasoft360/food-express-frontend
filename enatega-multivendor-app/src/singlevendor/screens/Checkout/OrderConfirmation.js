@@ -306,7 +306,7 @@ const OrderConfirmationScreen = (props) => {
         <DeliveredStatus
           currentTheme={currentTheme}
           t={t}
-          appName={configuration?.appName || 'Enatega'}
+          appName={configuration?.appName || 'Food Express'}
           isCancelled={isCancelled}
           error={error}
           isPickUpOrder={isPickUpOrder}
