@@ -76,7 +76,7 @@
     "@types/react-dom": "^19",
     "@types/react-geocode": "^0.2.4",
     "@types/uuid": "^10.0.0",
-    "@typescript-eslint/eslint-plugin": "^8.62.1",
+    "@typescript-eslint/eslint-plugin": "^8.70.0",
     "@typescript-eslint/parser": "^8.62.1",
     "autoprefixer": "^10.4.19",
     "cross-env": "^7.0.3",
